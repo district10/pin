@@ -1,1 +1,1 @@
-^SPACE::  Winset, Alwaysontop, , A
+^!F10::  Winset, Alwaysontop, , A

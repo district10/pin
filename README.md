@@ -1,7 +1,9 @@
 # pin
 Pin window on top
 
-put it to your startup dir:
+Just double click it. Use `Control+Alt+F10` to toogle "on top".
+
+Put the binary to your startup dir:
 
 ```
 %HOME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
